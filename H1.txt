@@ -1,4 +1,4 @@
-Edições
+=Edições
 Campeões
 Partidas
 Seleções
@@ -14,6 +14,7 @@ Cadastrar arbitro
 Cadastrar seleção
 Cadastrar jogadores
 Cadastrar partidas
+cadastrar grupo
 Cadastrar resultado de uma Partida
 Cadastrar estatística de uma partida
 Cadastrar estatística a um Jogador
@@ -21,10 +22,11 @@ Cadastrar estatística a um Jogador
 GERAR INFORMAÇÕES:
 
 Informar Campeões
-Gerar estatistística de uma edição
-Gerar estatistística de uma partida
-Gerar estatistística de uma seleção
-Gerar estatistística de um jogador
+Gerar estatística de uma edição
+Gerar estatística de uma partida
+Gerar estatística de uma seleção
+Gerar estatística de um jogador
+Gerar estatístíca
 Gerar tabela
 
 
