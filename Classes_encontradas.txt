@@ -1,0 +1,20 @@
+selecao
+Jogador:
+	artilheiro
+	goleiro
+	batedor
+	apanhador
+arbirtro
+estadio
+edição
+tabela
+vassoura
+partida
+faltas
+tipo_faltas
+resultado	
+bola:
+	gole
+	balaço
+	plumo de ouro
+
